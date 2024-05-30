@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest a feature for Beatblock
 title: "[SUGGESTION] "
-labels: enhancement
+labels: suggestion
 assignees: ''
 
 ---
