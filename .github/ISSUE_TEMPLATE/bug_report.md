@@ -6,6 +6,11 @@ labels: bug
 assignees: ''
 
 ---
+**Demo, or EA? Version?**
+Was this bug found on the demo version, or the Early Access release? Additionally, please include the version number if applicable.
+
+**Info about your device**
+Please include information about the device you are running Beatblock on, including operating system, GPU, RAM size, etc.
 
 **Describe the bug**
 A clear and concise description of what the bug is.
