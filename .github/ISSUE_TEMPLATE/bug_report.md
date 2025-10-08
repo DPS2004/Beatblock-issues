@@ -6,8 +6,9 @@ labels: bug
 assignees: ''
 
 ---
-**Demo, or EA? Version?**
-Was this bug found on the demo version, or the Early Access release? Additionally, please include the version number if applicable.
+**EA Version?**
+
+What version of the Early Access release was this bug found on? Please note that as per the README the demo version of the game is no longer supported, and bug reports regarding it will be closed.
 
 **Info about your device**
 Please include information about the device you are running Beatblock on, including operating system, GPU, RAM size, etc.
